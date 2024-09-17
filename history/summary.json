@@ -4,19 +4,19 @@
     "url": "https://kekmart.smirf123.dev/kekbot/status",
     "icon": "https://icons.duckduckgo.com/ip3/kekmart.smirf123.dev.ico",
     "slug": "kmart-bot",
-    "status": "down",
-    "uptime": "77.78%",
-    "uptimeDay": "77.78%",
-    "uptimeWeek": "77.78%",
-    "uptimeMonth": "77.78%",
-    "uptimeYear": "77.78%",
-    "time": 273,
-    "timeDay": 273,
-    "timeWeek": 273,
-    "timeMonth": 273,
-    "timeYear": 273,
+    "status": "up",
+    "uptime": "60.89%",
+    "uptimeDay": "60.89%",
+    "uptimeWeek": "60.89%",
+    "uptimeMonth": "60.89%",
+    "uptimeYear": "60.89%",
+    "time": 283,
+    "timeDay": 283,
+    "timeWeek": 283,
+    "timeMonth": 283,
+    "timeYear": 283,
     "dailyMinutesDown": {
-      "2024-09-17": 7
+      "2024-09-17": 15
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 236,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "time": 229,
+    "timeDay": 229,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 341,
-    "timeWeek": 341,
-    "timeMonth": 341,
-    "timeYear": 341,
+    "time": 336,
+    "timeDay": 336,
+    "timeWeek": 336,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   }
 ]
