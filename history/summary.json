@@ -4,18 +4,20 @@
     "url": "https://kekmart.smirf123.dev/kekbot/status",
     "icon": "https://icons.duckduckgo.com/ip3/kekmart.smirf123.dev.ico",
     "slug": "kmart-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 327,
-    "timeWeek": 327,
-    "timeMonth": 327,
-    "timeYear": 327,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 306,
+    "timeDay": 306,
+    "timeWeek": 306,
+    "timeMonth": 306,
+    "timeYear": 306,
+    "dailyMinutesDown": {
+      "2024-09-17": 0
+    }
   },
   {
     "name": "VRCKmart",
