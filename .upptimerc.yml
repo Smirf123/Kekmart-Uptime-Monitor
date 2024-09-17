@@ -5,6 +5,10 @@ repo: Kekmart-Uptime-Monitor # The name of this repository
 sites:
   - name: Kmart Bot
     url: https://kekmart.smirf123.dev/kekbot/status
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 418
   - name: VRCKmart
     url: https://vrckmart.com
   - name: Discord
