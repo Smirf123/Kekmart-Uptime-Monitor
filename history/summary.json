@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kekmart.smirf123.dev.ico",
     "slug": "kmart-bot",
     "status": "down",
-    "uptime": "86.74%",
-    "uptimeDay": "86.74%",
-    "uptimeWeek": "86.74%",
-    "uptimeMonth": "86.74%",
-    "uptimeYear": "86.74%",
-    "time": 282,
-    "timeDay": 282,
-    "timeWeek": 282,
-    "timeMonth": 282,
-    "timeYear": 282,
+    "uptime": "77.78%",
+    "uptimeDay": "77.78%",
+    "uptimeWeek": "77.78%",
+    "uptimeMonth": "77.78%",
+    "uptimeYear": "77.78%",
+    "time": 273,
+    "timeDay": 273,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {
-      "2024-09-17": 4
+      "2024-09-17": 7
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 242,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 350,
-    "timeWeek": 350,
-    "timeMonth": 350,
-    "timeYear": 350,
+    "time": 341,
+    "timeDay": 341,
+    "timeWeek": 341,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {}
   }
 ]
