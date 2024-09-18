@@ -14,7 +14,7 @@ sites:
   - name: Discord
     url: https://discord.gg/kmart
   - name: Kmart Express
-    url: https://404
+    url: https://kekmart.smirf123.dev/kekbot/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
