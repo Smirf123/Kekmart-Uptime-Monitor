@@ -1,7 +1,7 @@
 url: https://kekmart.smirf123.dev/kekbot/status
-status: down
-code: 522
-responseTime: 19535
-lastUpdated: 2025-05-02T07:46:22.793Z
+status: up
+code: 200
+responseTime: 4821
+lastUpdated: 2025-05-02T08:37:12.486Z
 startTime: 2024-09-18T00:11:32.169Z
 generator: Upptime <https://github.com/upptime/upptime>
